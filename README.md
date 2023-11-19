@@ -8,3 +8,4 @@ Treat Tide is a comprehensive food acquisition platform designed to simplify the
 
 # Contributors:
 - [Olusegun Omogbehinmi](https://github.com/CodewithSegNet)
+- [Michael Mathew](https://github.com/mike-programs)
